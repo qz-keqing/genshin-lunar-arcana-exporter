@@ -23,7 +23,8 @@
 
 ### 方式一：直接用打包好的 exe
 
-下载 Release 里的 `月谕圣牌导出器.exe`（或自行打包，见下）→ 双击 →
+在 [Releases](https://github.com/qz-keqing/genshin-lunar-arcana-exporter/releases) 下载
+`YueYuShengPai-Exporter-v1.0.0.exe`（即「月谕圣牌导出器」，Windows 10/11 64 位，免安装）→ 双击 →
 
 1. **① 扫码登录（国服）**：点「获取二维码」，用**米游社 App** 扫码确认
 2. **② 粘贴 Cookie（国际服/备用）**：浏览器登录米游社或 HoYoLAB → `F12` → Network → 复制任一战绩请求的 `Cookie`（至少含 `ltuid_v2`、`ltoken_v2`）

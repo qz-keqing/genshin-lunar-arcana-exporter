@@ -1,0 +1,5 @@
+# 统一换行：文本用 LF，PowerShell 脚本保留 CRLF 以便 Windows 直接双击运行
+* text=auto eol=lf
+*.ps1 text eol=crlf
+*.png binary
+*.ico binary

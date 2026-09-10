@@ -1,0 +1,28 @@
+# 构建产物 / 运行时文件
+dist/
+build/
+*.spec
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 导出的数据、日志、二维码临时文件
+out/
+logs/
+tests/out/
+*.log
+yysp_qr*.png
+
+# 登录态（绝不能提交）
+session.json
+*_session.json
+cookies*.txt
+cookie*.txt
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
